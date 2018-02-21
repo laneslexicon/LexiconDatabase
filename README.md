@@ -5,7 +5,7 @@ From time to time users report errors/omissions; when the fixes have been made t
 
 To get the newest database, download the latest release. 
 
-The contents of the downloaded file are as follows (for release 1.0.5): 
+The contents of the downloaded file are as follows (in this example,for release 1.0.5): 
 ```
 Archive:  LexiconDatabase-1.0.5.zip
   Length     Date   Time    Name
