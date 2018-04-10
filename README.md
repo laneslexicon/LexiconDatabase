@@ -1,13 +1,13 @@
 # LexiconDatabase
 
-The releases of this repository contains that latest version of the Arabic-English Lexicon database.
+This repository contains that latest version of the Arabic-English Lexicon database.
 
 
 From time to time users report errors/omissions; when problems are fixed, a new version is released. 
 
 Details of the changes in each new release can be found [here](Versions.md).
 
-To get the newest database, download the latest release. 
+To get the newest database, download the latest release from [here](https://github.com/laneslexicon/LexiconDatabase/releases) and follow the instructions below. 
 
 The contents of the downloaded file are as follows (in this example,for release 1.0.5): 
 ```
