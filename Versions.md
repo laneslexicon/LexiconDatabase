@@ -1,6 +1,6 @@
 ## 1.0.9
 
-There are no data changes in this version, but an error stopeed Lane's cross-references (entries in the text preceded by a down-arrow) from appearing as clickable links (they still appeared but as plain text).
+There are no data changes in this version, but an error stopped Lane's cross-references (entries in the text preceded by a down-arrow) from appearing as clickable links (they still appeared but as plain text).
 
 This bug had been present for some time. :-(
 
